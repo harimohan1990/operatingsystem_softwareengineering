@@ -1,4 +1,4 @@
-# operatingsystem_softwareengineering
+# operating system with software engineering
 
 
 As a full-stack engineer working with AWS, having a solid understanding of operating systems is crucial for several reasons:
